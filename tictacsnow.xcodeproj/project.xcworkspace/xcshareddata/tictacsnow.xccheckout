@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>20FDF5AC-B556-427C-9C1B-D93E4854490B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>tictacsnow</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EC29E5A905E56E5DB01FB35B42A7ABF6949A61AA</key>
+		<string>https://github.com/uchicago-mobi/windyita-MPCS51030-Winter-2015-Assignment-5.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>tictacsnow.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EC29E5A905E56E5DB01FB35B42A7ABF6949A61AA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/uchicago-mobi/windyita-MPCS51030-Winter-2015-Assignment-5.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EC29E5A905E56E5DB01FB35B42A7ABF6949A61AA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EC29E5A905E56E5DB01FB35B42A7ABF6949A61AA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tictacsnow</string>
+		</dict>
+	</array>
+</dict>
+</plist>
